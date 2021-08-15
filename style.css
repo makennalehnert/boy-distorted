@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+  color: #18b573;
+  font-family: Monaco, 'Times New Roman', serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: Monaco, 'Times New Roman', serif;
+  font-size: 23px;
+}
+
+footer h3{
+  color:#18b573;
+  height: 4px;
+  text-decoration: #18b573 underline;
+  font-family: Monaco, 'Times New Roman', serif;
+  font-size: 17px;
+}
+
+footer{
+  font-family: Monaco, sans-serif;
+  font-size: 10px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  background: #000000;
+  padding: 1%;
+}
+
+footer{
+  background:#000000;
+  text-align: center;
+}
+
+a{
+  height: 4px;
+}
+
+a:link{color:#18b573}
+a:visited{color: #18b573}
+a:hover{color:lawngreen}
+a:active{color:hotpink}
